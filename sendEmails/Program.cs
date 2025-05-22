@@ -6,8 +6,8 @@ class Program
     static void Main(string[] args)
     {
         // Set the sender, recipient, subject, and body of the email
-        string from = "Sender";
-        string to = "receiver";
+        string from = "Sender Email";
+        string to = "receiver Email";
 
         string subject = "this email is from C# to test the app";
         string body = @"
