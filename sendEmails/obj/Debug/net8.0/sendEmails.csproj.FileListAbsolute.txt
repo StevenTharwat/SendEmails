@@ -1,0 +1,14 @@
+E:\projects\C#\c# consol\sendEmails\sendEmails\bin\Debug\net8.0\sendEmails.exe
+E:\projects\C#\c# consol\sendEmails\sendEmails\bin\Debug\net8.0\sendEmails.deps.json
+E:\projects\C#\c# consol\sendEmails\sendEmails\bin\Debug\net8.0\sendEmails.runtimeconfig.json
+E:\projects\C#\c# consol\sendEmails\sendEmails\bin\Debug\net8.0\sendEmails.dll
+E:\projects\C#\c# consol\sendEmails\sendEmails\bin\Debug\net8.0\sendEmails.pdb
+E:\projects\C#\c# consol\sendEmails\sendEmails\obj\Debug\net8.0\sendEmails.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\C#\c# consol\sendEmails\sendEmails\obj\Debug\net8.0\sendEmails.AssemblyInfoInputs.cache
+E:\projects\C#\c# consol\sendEmails\sendEmails\obj\Debug\net8.0\sendEmails.AssemblyInfo.cs
+E:\projects\C#\c# consol\sendEmails\sendEmails\obj\Debug\net8.0\sendEmails.csproj.CoreCompileInputs.cache
+E:\projects\C#\c# consol\sendEmails\sendEmails\obj\Debug\net8.0\sendEmails.dll
+E:\projects\C#\c# consol\sendEmails\sendEmails\obj\Debug\net8.0\refint\sendEmails.dll
+E:\projects\C#\c# consol\sendEmails\sendEmails\obj\Debug\net8.0\sendEmails.pdb
+E:\projects\C#\c# consol\sendEmails\sendEmails\obj\Debug\net8.0\sendEmails.genruntimeconfig.cache
+E:\projects\C#\c# consol\sendEmails\sendEmails\obj\Debug\net8.0\ref\sendEmails.dll
